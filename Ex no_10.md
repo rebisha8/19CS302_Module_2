@@ -12,6 +12,7 @@ To write a C program to find the factorial of a given number using a function wi
 6.End. 
 
 ## Program:
+```c
 #include <stdio.h>
 int main() {
  int n, i;
@@ -27,6 +28,7 @@ int main() {
  }
  return 0;
 }
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/2f222b2b-2dac-422c-9d73-4c16ba57ab7c)
